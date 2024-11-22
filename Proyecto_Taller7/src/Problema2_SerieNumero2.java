@@ -19,3 +19,8 @@ public class Problema2_SerieNumero2 {
     }
     
 }
+
+/**
+ * DAME EL LIMITE: 5
+ * 5/10, 10/12, 15/14, 20/16, 25/18
+ */

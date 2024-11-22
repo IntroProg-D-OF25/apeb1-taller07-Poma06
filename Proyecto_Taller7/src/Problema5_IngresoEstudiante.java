@@ -22,3 +22,10 @@ public class Problema5_IngresoEstudiante {
     }
     
 }
+
+/***
+ * DAME NOMBRE Y PROMEDIO: 
+ * David 9
+ * NOMBRE MEDIO  ESTADO
+ * David   9.0   APROBADO
+ */

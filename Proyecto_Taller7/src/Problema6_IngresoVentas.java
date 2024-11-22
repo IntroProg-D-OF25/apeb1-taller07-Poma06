@@ -40,3 +40,11 @@ public class Problema6_IngresoVentas {
     }
     
 }
+
+/***
+ * INGRESE EL NOMBRE DEL CLIENTE: David
+ * INGRESE EL PRECIO DE LA COMPUTADORA: 5000
+ * INGRESE EL TIPO DE CLIENTE (SOLO NUMEROS): 2
+ * Se le otorga un descuento del 20%
+ * Cliente tipo 2, compra computadora con un precio de: 4000.0
+ */

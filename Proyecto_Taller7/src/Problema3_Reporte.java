@@ -26,3 +26,11 @@ public class Problema3_Reporte {
     }
     
 }
+
+/***
+ * INGRESA LOS NOMBRE: David
+ * INGRESA EL NUMERO DE DIAS TRABAJADOS: 30
+ * INGRESA EL COSTO DEL DIA DE TRABAJO: 2.5 
+ * NOMBRE   DIAS   COSTO   TOTAL
+ * David     30     2.5     75.0
+ */
